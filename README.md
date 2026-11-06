@@ -29,3 +29,10 @@ MoonAnything is introduced in the paper:
 
 If you use MoonAnything in your research, please cite the corresponding paper and the Zenodo dataset:
 
+@inproceedings{grethen2026moonanything,
+  title={MoonAnything: A Vision Benchmark with Large-Scale Lunar Supervised Data},
+  author={Grethen, Cl{\'e}mentine and Shi, Yuang and Gasparini, Simone and Morin, G{\'e}raldine},
+  booktitle={Proceedings of the ACM Multimedia Systems Conference 2026},
+  pages={457--463},
+  year={2026}
+}
