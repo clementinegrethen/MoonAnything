@@ -95,15 +95,7 @@ If you use MoonAnything in your research, please cite both the paper and the dat
   year      = {2026}
 }
 
-@misc{grethen2026moonanything_data,
-  title     = {MoonAnything: A Vision Benchmark with Large-Scale Lunar Supervised Data},
-  author    = {Grethen, Cl{\'e}mentine and Shi, Yuang and Gasparini, Simone and Morin, G{\'e}raldine},
-  publisher = {Zenodo},
-  version   = {v2},
-  year      = {2026},
-  doi       = {10.5281/zenodo.23534735},
-  url       = {https://doi.org/10.5281/zenodo.23534735}
-}
+@misc{GRETHEN_Shi_Gasparini_Morin, title={MoonAnything: A Vision Benchmark with Large-Scale Lunar Supervised Data}, DOI={10.5281/zenodo.23534735}, publisher={Zenodo}, author={GRETHEN, CLEMENTINE and Shi, Yuang and Gasparini, Simone and Morin, Geraldine} }
 ```
 
 ---
